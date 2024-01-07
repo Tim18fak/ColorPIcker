@@ -24,7 +24,12 @@ button{
  color: black;
  margin: .5rem;
 }
-
+.color_rgbValue{
+ padding: 0.5rem;
+background-color: black;
+color: white;
+border-radius: 10px;
+}
 
 
 @media screen and (min-width: 300px) and (max-width: 500px) {
