@@ -34,6 +34,6 @@ button{
  }
  .color_palette{
   width: 100%;
-  height: clamp(200px,400px,600px)
+  height: clamp(200px,250px,600px)
  }
 }
