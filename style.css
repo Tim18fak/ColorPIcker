@@ -30,6 +30,7 @@ button{
 @media screen and (min-width: 300px) and (max-width: 500px) {
  .container{
   flex-direction: column;
+  row-gap: 10px;
  }
  .color_palette{
   width: 100%;
